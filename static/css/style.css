@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: #282c34;
+    color: #61dafb;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    margin: 20px 0;
+}
+
+.video-container {
+    margin: 20px auto;
+    width: 640px;
+    height: 480px;
+    border: 5px solid #61dafb;
+    border-radius: 10px;
+    overflow: hidden;
+}
