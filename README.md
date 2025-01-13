@@ -20,7 +20,7 @@ Ensure you have the following installed:
 
 ### Installation
 1. Clone this repository:
-   git clone https://github.com/your-username/full-body-skeleton-tracking.git
+   git clone https://github.com/Ramu535/Skeleton-Animation.git
    cd full-body-skeleton-tracking
 
 2.Install the required dependencies:
@@ -28,9 +28,6 @@ Ensure you have the following installed:
 3.Run the application
   python app.py
 4.Open your web browser and navigate to:
-
-https://github.com/user-attachments/assets/c1aa1f6c-aa54-4d04-b90e-7eed4de0b5b3
-
 
   http://127.0.0.1:5000
 
