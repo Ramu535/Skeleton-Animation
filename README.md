@@ -1,2 +1,40 @@
-# Skeleton-Animation
-software where a human skeleton on the screen imitates with animation of the person in the live webcam.If the person moves, the skeleton should move, if the person sits the skeleton sits and if the person does any facial or hand actions it should mimic the same. It should be animated and funny.
+# Full-Body Skeleton Tracking with Mediapipe and OpenCV
+
+This project is a Flask-based web application that uses Mediapipe and OpenCV to track and display a full-body skeleton, including the torso, arms, legs, and face mesh. The application draws the skeleton in white over a black background and can process live webcam input.
+
+## Features
+- Full-body skeleton tracking using Mediapipe's Pose module.
+- Face mesh rendering with Mediapipe's Face Mesh module.
+- Hand tracking and connections with Mediapipe's Hands module.
+- Real-time video feed processed and displayed in a web browser.
+- Custom enhancements like a shaded torso and neck line for realistic visualization.
+
+---
+
+## Setup Instructions
+
+### Prerequisites
+Ensure you have the following installed:
+- Python 3.8 or above
+- A webcam (for live video input)
+
+### Installation
+1. Clone this repository:
+   git clone https://github.com/your-username/full-body-skeleton-tracking.git
+   cd full-body-skeleton-tracking
+
+2.Install the required dependencies:
+  pip install -r requirements.txt
+3.Run the application
+  python app.py
+4.Open your web browser and navigate to:
+
+https://github.com/user-attachments/assets/c1aa1f6c-aa54-4d04-b90e-7eed4de0b5b3
+
+
+  http://127.0.0.1:5000
+
+
+https://github.com/user-attachments/assets/ba14038d-2969-4591-a5db-ccb1f39e6f1e
+
+
