@@ -19,15 +19,15 @@ Ensure you have the following installed:
 - A webcam (for live video input)
 
 ### Installation
--1. Clone this repository:
-   -git clone https://github.com/Ramu535/Skeleton-Animation.git
-   -cd full-body-skeleton-tracking
+- 1.Clone this repository:
+   - git clone https://github.com/Ramu535/Skeleton-Animation.git
+   - cd full-body-skeleton-tracking
 
--2.Install the required dependencies:
-   -pip install -r requirements.txt
--3.Run the application
-    -python app.py
--4.Open your web browser and navigate to:
+- 2.Install the required dependencies:
+   - pip install -r requirements.txt
+- 3.Run the application
+    - python app.py
+- 4.Open your web browser and navigate to:
    - http://127.0.0.1:5000
 
 
